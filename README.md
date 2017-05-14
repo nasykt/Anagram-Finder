@@ -4,6 +4,7 @@ The project is to find Anagrams and Palindrome from very similar list of text fi
 We can choose appropriate operation by using Switches.
 
 Working :
+
 1-To find Anagrams Hash map used.      
     -Convert given words into character Array and make it sorted string    
     -Take this sorted string as key and Show all words mapping to the key and group Anagrams.
