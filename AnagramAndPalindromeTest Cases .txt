@@ -1,0 +1,18 @@
+Manual Test Cases for Java Project:
+* Gave all inputs and check for required output.
+* Checked for single character word and ensured it is not showing.
+* Adding new words and checked again.
+* Gave the word which have so many anagrams to check long list of particular set of anagrams.
+* Checked for switch cases.
+* Checked for Caps letter words and ensured works.
+* Checked for space between lines and ensured works.
+* Checked for exceptions like FileNotFoundException, IOException etc.
+
+
+
+
+JUnit Test:
+* Did JUnit Test and found it Failed because of NumberFormatException .
+* Fix the Failure by giving Try and catch block.
+* Pass the test successfully.
+
