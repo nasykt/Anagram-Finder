@@ -1,9 +1,13 @@
-# Anagram-and-Palindrome-Find-Task:
+# Anagram-Finder:
 
-The project is to find Anagrams and Palindrome from very similar list of text file. It implemented by two methods in a java file, one to find Anagrams and other one to find Palindromes.
-We can choose appropriate operation by using Switches.
+The project is to find Anagrams and Palindrome from very similar list of dictionary words text file. 
 
-Working :
+Working:
+clone the repository using netbeansIDE and run it.
+It implemented by two methods in a java file, one to find Anagrams and other one to find Palindromes.
+choose appropriate operation by using Switches.
+
+Logic used :
 
 1-To find Anagrams Hash map used.      
     -Convert given words into character Array and make it sorted string    
